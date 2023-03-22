@@ -5,7 +5,8 @@ pub fn multiple_templates_with_includes() -> Result<()> {
     let mut env = Environment::new();
 
     let base_string = r#"
-<div>Hello, {% include "name" %}</div>
+<div>Hello, {% include "name" %}
+</div>
 "#;
 
     let name_block_string = r#"

@@ -1,2 +1,4 @@
-# minijinga-scratchpad
-Quick Setup For Working With Minijinja In Rust
+# MiniJinga Scratchpad
+
+Quick examples for working with the 
+MiniJinja templating Rust crate
